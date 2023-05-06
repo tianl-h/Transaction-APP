@@ -1,0 +1,14 @@
+node_modules/
+
+# Build files
+.next/
+out/
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Other files
+.DS_Store
